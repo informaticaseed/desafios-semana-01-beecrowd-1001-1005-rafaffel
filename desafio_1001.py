@@ -12,3 +12,9 @@ você receberá "Presentation Error".
 # Link do problema: https://judge.beecrowd.com/pt/problems/view/1001
 
 # Escreva sua solução abaixo
+
+N1 = int(input("Coloque o primeiro numero: "))
+N2 = int(input("Coloque o segundo numero: "))
+
+Soma = N1 + N2
+print (f'O resultado é {Soma}')
